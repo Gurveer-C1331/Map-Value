@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Map Value</title>
+    <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
+    <meta http-equiv="Content-Security-Policy" content="script-src * https://www.gstatic.com/charts/loader.js 'self' 'unsafe-inline';" />
+    <link rel="stylesheet" href="../assets/css/information.css">
+    <script src="https://www.gstatic.com/charts/loader.js"></script>
+  </head>
+  <body>
+    <main>
+        <div class="map-container">
+            <div id="regions_div"></div>
+        </div>
+        <div class="set-container">
+            <div class="button-container"><a class="button" id="button" href="#">SET VALUE</a></div>
+            <div class="info-container">
+                <img src="../assets/images/information.svg" alt="">
+                <p>Select countries and click set value to set a value for those countries</p>
+            </div>
+        </div>
+    </main>
+    <aside>
+      <img src="../assets/images/menu.svg" alt="" class="menu" id="menu">
+      <nav>
+          <ul>
+              <li><a href="#"><img src="../assets/images/exit.svg" alt="" class="exit" id="exit"></a></li>
+              <li><a href="index.html">Display</a></li>
+              <li><a href="information.html">Set Information</a></li>
+          </ul>
+      </nav>
+  </aside>
+
+  <script src="information.js"></script>
+  </body>
+</html>
