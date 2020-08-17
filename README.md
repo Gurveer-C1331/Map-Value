@@ -6,3 +6,5 @@ Concepts:
 - More Javascript, CSS, HTML
 - UI designing using Adobe XD
 - Google Charts Library (specifically the Geochart Library)
+
+Created: Jun 2020
