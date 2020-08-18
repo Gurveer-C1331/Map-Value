@@ -9,4 +9,4 @@ Concepts:
 - UI designing using Adobe XD
 - Google Charts Library (specifically the Geochart Library)
 
-Created: Jun 2020
+Created: June 2020
