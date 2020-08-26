@@ -3,7 +3,7 @@ Map Value is an application made using the Electron framework and Google's Geoch
 
 **Made using Electron, need to install Electron as dev dependency and make changes to package.json so "main.js" is the Main Process**
 
-Concepts:
+Concepts/Skills Applied:
 - Electron Framework
 - More Javascript, CSS, HTML
 - UI designing using Adobe XD
